@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
-def slang_dict_toc(): 
-	from string import ascii_lowercase
+from string import ascii_lowercase
 
+def slang_dict_toc(): 
+	
 	slangpages = []
 
 	for c in ascii_lowercase:
